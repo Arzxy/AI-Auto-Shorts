@@ -1,4 +1,4 @@
-# 🎬 AI Auto Shorts (Versi Lokal)
+# 🎬 AI Auto Shorts
 
 Sebuah tool otomatis berbasis AI untuk membuat konten video pendek viral (TikTok, Reels, YouTube Shorts) dari video YouTube secara lokal. Tool ini akan mengunduh video, melakukan transkripsi audio, mencari bagian paling menarik (hook), memotong video ke format vertikal 9:16 dengan pelacakan wajah, serta menambahkan subtitle dinamis ala konten Alex Hormozi.
 
